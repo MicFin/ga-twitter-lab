@@ -14,7 +14,7 @@ GIT
       thread_safe (~> 0.1.3)
 
 GEM
-  remote: https://rubygems.org/
+  remote: http://rubygems.org/
   specs:
     atomic (1.1.14)
     buftok (0.1)
